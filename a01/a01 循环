@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Sep  1 11:40:30 2019
+
+@author: lenovo
+"""
+
+L = ['Bart', 'Lisa', 'Adam']
+for name in L:
+    print('hello,%s'%name)
