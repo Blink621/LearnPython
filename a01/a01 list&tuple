@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Sep  1 11:40:30 2019
+
+@author: lenovo
+"""
+
+L = [
+    ['Apple', 'Google', 'Microsoft'],
+    ['Java', 'Python', 'Ruby', 'PHP'],
+    ['Adam', 'Bart', 'Lisa']
+]
+
+n=0
+while n<=2:
+    print(L[n][n])
+    n=n+1
